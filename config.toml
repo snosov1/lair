@@ -1,10 +1,18 @@
 baseURL = "http://localhost:1313/"
-title = "Old-school old-time hacker's lair"
 theme = "jane"
 
 defaultContentLanguage = "en"
+[languages]
 [languages.en]
+  title = "Old-school old-time hacker's lair"
   languageCode = "en"
+  languageName = "English"
+  weight = 1
+[languages.ru]
+  title = "Пещера старого хакера"
+  languageCode = "ru"
+  languageName = "Русский"
+  weight = 2
 
 [author] # essential
   name = "sergei.nosov"
