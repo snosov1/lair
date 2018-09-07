@@ -14,6 +14,19 @@ defaultContentLanguage = "en"
   languageName = "Русский"
   weight = 2
 
+# Main menu
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[languages.ru.menu.main]]
+  name = "Главная"
+  weight = 10
+  identifier = "home"
+  url = "ru/"
+
 [author] # essential
   name = "sergei.nosov"
 
@@ -21,12 +34,6 @@ defaultContentLanguage = "en"
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
-
-[[menu.main]]
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  url = "/"
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
