@@ -1,0 +1,10 @@
+---
+title: "Init"
+date: 2018-09-12T14:59:34+03:00
+weight: 50
+isshort: true
+---
+
+{{< blockquote author="Rust, True Detective" >}}
+  Once there was only dark. If you ask me, the light is winning.
+{{< /blockquote >}}

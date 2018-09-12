@@ -38,7 +38,6 @@ defaultContentLanguage = "en"
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
   since = "2018"            # Site creation time
-  homeFullContent = false   # if false, show post summaries on home page. Otherwise, show full content.
   rssFullContent = true     # if false, RSS feed instead of the summary
 
   # site info (optional)
