@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://snosov1.github.io"
 theme = "dark-tango-with-jane"
 
 defaultContentLanguage = "en"
