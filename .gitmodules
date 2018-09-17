@@ -4,3 +4,7 @@
 [submodule "dark-tango-with-jane"]
 	path = themes/dark-tango-with-jane
 	url = https://github.com/snosov1/hugo-theme-jane.git
+[submodule "public"]
+	path = public
+	url = https://github.com/snosov1/snosov1.github.io.git
+	branch = master
