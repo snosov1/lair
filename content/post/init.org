@@ -6,5 +6,7 @@ isshort: true
 ---
 
 {{< blockquote author="Rust, True Detective" >}}
-  Once there was only dark. If you ask me, the light is winning.
+
+Once there was only dark. If you ask me, the light is winning.
+
 {{< /blockquote >}}
