@@ -20,21 +20,18 @@ mathjax: false
 Я - ярый пользователь и приверженец редактора [[https://www.gnu.org/software/emacs/][Emacs]] и, как следствие, автор
 расширяемого, настраиваемого и самодокументированного [[https://github.com/snosov1/dot-emacs][конфигурационного файла]]
 для него, где также имеется [[https://github.com/snosov1/dot-emacs/blob/master/tutorial.org][методичка]] для начинающих. По случаю, я ещё являюсь
-автором популярного пакета [[https://melpa.org/#/toc-org][toc-org]] для автоматической генерации Содержания (и
+автором популярного пакета [[https://melpa.org/#/toc-org][toc-org]] для автоматической генерации содержания (и
 автором не очень популярного пакета [[https://melpa.org/#/dummyparens][dummyparens]]).
 
 Список публичных проектов, в которых я, так или иначе участвовал, выглядит
 следующим образом:
 
-- [[https://software.intel.com/en-us/openvino-toolkit][OpenVINO]] Model Zoo. Наша команда натренировала примерно треть моделей под
-  грифом "intel_models"
+- [[https://software.intel.com/en-us/openvino-toolkit][OpenVINO]] Model Zoo. Наша команда натренировала примерно треть моделей под грифом "intel_models"
 - Обучающие [[https://github.com/snosov1/jetson-screencasts-sources][скринкасты]] по OpenCV на Jetson'е
 - OpenCV'шная [[https://github.com/opencv/opencv/blob/master/modules/imgproc/src/clahe.cpp][реализация CLAHE]]
-- [[https://github.com/Intel-Media-SDK/MediaSDK/tree/master/samples][Сэмплы в Media SDK]] (участвовал в разработке ещё до того, как Media SDK вышла
-  в Open Source)
+- [[https://github.com/Intel-Media-SDK/MediaSDK/tree/master/samples][Сэмплы в Media SDK]] (участвовал в разработке ещё до того, как Media SDK вышла в Open Source)
 - [[https://bitbucket.org/digitalsphere/sphericalmirror/src/master/][Плагин для VLC]], реализующий преобразование "Сферическое Зеркало"
-- [[https://www.dropbox.com/s/yq7p4de99knn1o0/pre-defense.pdf?dl=0][Магистерская диссертация]] из Нижегородского Университета им. Лобачевского "Об
-  объёме максимального параллелепипеда, вложенного в симплекс".
+- [[https://www.dropbox.com/s/yq7p4de99knn1o0/pre-defense.pdf?dl=0][Магистерская диссертация]] из Нижегородского Университета им. Лобачевского "Об объёме максимального параллелепипеда, вложенного в симплекс".
 
 С 2015 года я веду еженедельный субботний кружок по спортивному программированию
 в Лицее 165 г. Нижний Новгород. Также, веду ежегодную лекцию об "[[https://github.com/UNN-VMK-Software/devtools-course-theory/tree/master/slides/09-automation][Автоматизации в

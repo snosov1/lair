@@ -29,8 +29,7 @@ something like this:
 - OpenCV [[https://github.com/opencv/opencv/blob/master/modules/imgproc/src/clahe.cpp][CLAHE implementation]]
 - [[https://github.com/Intel-Media-SDK/MediaSDK/tree/master/samples][Media SDK samples]] (in pre-open source era of Media SDK)
 - [[https://bitbucket.org/digitalsphere/sphericalmirror/src/master/][VLC plugin]] for Spherical Mirror projection
-- My [[https://www.dropbox.com/s/yq7p4de99knn1o0/pre-defense.pdf?dl=0][Master's Thesis]] (in Russian) "On the maximal volume of parallelotope
-  inscribed in d-simplex" at Nizhniy Novgorod State University.
+- My [[https://www.dropbox.com/s/yq7p4de99knn1o0/pre-defense.pdf?dl=0][Master's Thesis]] (in Russian) "On the maximal volume of parallelotope inscribed in d-simplex" at Nizhniy Novgorod State University.
 
 Since 2015, I lead regular Saturday classes on competitive programming at
 Nizhniy Novgorod school 165. Also, I have an annual lecture on [[https://github.com/UNN-VMK-Software/devtools-course-theory/tree/master/slides/09-automation]["Automation in
