@@ -41,7 +41,7 @@ defaultContentLanguage = "en"
   rssFullContent = true     # if false, RSS feed instead of the summary
 
   # site info (optional)
-  logoTitle = "Sergei's Lair"        # default: the title value
+  logoTitle = "Hacker's Lair"        # default: the title value
   keywords = []
   description = "Description"
 
