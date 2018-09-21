@@ -2,6 +2,7 @@
 title: "Open letter to Dr. Peterson"
 date: 2018-09-18T15:45:44+03:00
 weight: 50
+draft: true
 ---
 
 Dear Dr. Peterson,
