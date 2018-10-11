@@ -1,0 +1,9 @@
+---
+title: "Chutzpah"
+date: 2018-10-01T17:31:54+03:00
+weight: 50
+draft: true
+isshort: true
+---
+
+https://www.youtube.com/watch?v=7dLQQcR9kGM

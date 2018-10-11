@@ -1,0 +1,24 @@
+---
+title: "Screencasts on OpenCV"
+date: 2018-10-01T17:31:54+03:00
+weight: 50
+draft: true
+isshort: true
+---
+
+A significant part of my life is connected to the [[https://opencv.org/][OpenCV]] library. It has a
+fairly interesing history that, probably, deserves a thin printed brochure of
+its own. Born in Intel, then "abandoned" to a third-party company to become
+world's largest Computer Vision library, then "bought" by Intel again with
+Itseez acquisition.
+
+The main reason it became so widespread was that the library was a rock-so
+
+You can, probably, say that in terms of backing tech businesses, the library
+didn't provide stellar results. But the use of Computer Vision in established
+businesses even today (not to mention 10-15 yearsa ago) is very limited in the
+whole industry.
+
+https://github.com/snosov1/jetson-screencasts-sources
+
+https://www.youtube.com/watch?v=gvmP0WRVUxI
