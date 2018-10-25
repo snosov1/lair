@@ -31,7 +31,7 @@ something like this:
 - [[https://bitbucket.org/digitalsphere/sphericalmirror/src/master/][VLC plugin]] for Spherical Mirror projection
 - My [[https://www.dropbox.com/s/yq7p4de99knn1o0/pre-defense.pdf?dl=0][Master's Thesis]] (in Russian) "On the maximal volume of parallelotope inscribed in d-simplex" at Nizhniy Novgorod State University.
 
-Since 2015, I lead regular Saturday classes on competitive programming at
+Since 2015, I read regular Saturday classes on competitive programming at
 Nizhniy Novgorod school 165. Also, I have an annual lecture on [[https://github.com/UNN-VMK-Software/devtools-course-theory/tree/master/slides/09-automation]["Automation in
 Software Engineering"]] (in Russian) at Nizhniy Novgorod State University (part of
 the "Software Development Tools" course)
