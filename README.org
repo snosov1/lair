@@ -1,0 +1,1 @@
+[[https://travis-ci.org/snosov1/lair][file:https://api.travis-ci.org/snosov1/lair.svg?branch=master]]
