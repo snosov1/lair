@@ -5,11 +5,13 @@ defaultContentLanguage = "en"
 [languages]
 [languages.en]
   title = "Old-school old-time hacker's lair"
+  logoTitle = "Hacker's Lair"
   languageCode = "en"
   languageName = "English"
   weight = 1
 [languages.ru]
-  title = "Пещера старого хакера"
+  title = "Логово старого хакера"
+  logoTitle = "Логово старого хакера"
   languageCode = "ru"
   languageName = "Русский"
   weight = 2
@@ -39,11 +41,6 @@ defaultContentLanguage = "en"
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
   since = "2018"            # Site creation time
   rssFullContent = true     # if false, RSS feed instead of the summary
-
-  # site info (optional)
-  logoTitle = "Hacker's Lair"        # default: the title value
-  keywords = []
-  description = "Description"
 
   # paginate of archives, tags and categories
   archive-paginate = 3
