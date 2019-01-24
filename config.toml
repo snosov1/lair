@@ -2,6 +2,11 @@ baseURL = "http://snosov1.github.io"
 theme = "dark-tango-with-jane"
 
 defaultContentLanguage = "en"
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+
 [languages]
 [languages.en]
   title = "Old-school old-time hacker's lair"
