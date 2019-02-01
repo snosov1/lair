@@ -10,13 +10,13 @@ pygmentsCodefencesGuessSyntax = true
 [languages]
 [languages.en]
   title = "Old-school old-time hacker's lair"
-  logoTitle = "Hacker's Lair"
+  logoTitle = "Old Hacker's Lair"
   languageCode = "en"
   languageName = "English"
   weight = 1
 [languages.ru]
-  title = "Логово старого хакера"
-  logoTitle = "Логово старого хакера"
+  title = "Логово Старого Хакера"
+  logoTitle = "Логово Старого Хакера"
   languageCode = "ru"
   languageName = "Русский"
   weight = 2
