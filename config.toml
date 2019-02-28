@@ -58,7 +58,8 @@ pygmentsCodefencesGuessSyntax = true
   dateFormatToUse = "2006-01-02"
 
   # show word count and read time ?
-  moreMeta = false
+  moreMeta = true
+  sourceRepo = "https://github.com/snosov1/lair/tree/master/content"
 
   # show language chooser in menu
   showMenuLanguageChooser = true
