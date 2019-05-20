@@ -24,7 +24,7 @@ table of contents generation (and not so popular [[https://melpa.org/#/dummypare
 The list of public projects I've been contributing to over the years looks
 something like this:
 
-- [[https://software.intel.com/en-us/openvino-toolkit][OpenVINO]] Model Zoo. Our team has trained about one third of the "intel_models"
+- [[https://software.intel.com/en-us/openvino-toolkit][OpenVINO]] [[Model Zoo][https://github.com/opencv/open_model_zoo]]. Our team has trained about one third of the "intel_models"
 - OpenCV on Jetson [[https://github.com/snosov1/jetson-screencasts-sources][screencasts]]
 - OpenCV [[https://github.com/opencv/opencv/blob/master/modules/imgproc/src/clahe.cpp][CLAHE implementation]]
 - [[https://github.com/Intel-Media-SDK/MediaSDK/tree/master/samples][Media SDK samples]] (in pre-open source era of Media SDK)
