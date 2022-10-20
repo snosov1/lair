@@ -1,0 +1,77 @@
+baseURL = "http://snosov1.github.io"
+theme = "dark-tango-with-jane"
+
+defaultContentLanguage = "en"
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+
+[languages]
+[languages.en]
+  title = "Old-school old-time hacker's lair"
+  logoTitle = "Old Hacker's Lair"
+  languageCode = "en"
+  languageName = "English"
+  weight = 1
+[languages.ru]
+  title = "Логово Старого Хакера"
+  logoTitle = "Логово Старого Хакера"
+  languageCode = "ru"
+  languageName = "Русский"
+  weight = 2
+
+# Main menu
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[languages.ru.menu.main]]
+  name = "Главная"
+  weight = 10
+  identifier = "home"
+  url = "ru/"
+
+[author] # essential
+  name = "sergei.nosov"
+
+[sitemap] # essential
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
+  since = "2018"            # Site creation time
+  rssFullContent = true     # if false, RSS feed instead of the summary
+
+  # paginate of archives, tags and categories
+  archive-paginate = 3
+
+  # paginate style, default use numbered pagination links
+  # if true, use original "Previous" and "Next" links.
+  # paginateOriginalStyle = true
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  # show word count and read time ?
+  moreMeta = true
+  sourceRepo = "https://github.com/snosov1/lair/tree/master/content"
+
+  # show language chooser in menu
+  showMenuLanguageChooser = true
+
+  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+  toc = true
+  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe
+  mathjax = false           # see https://www.mathjax.org/
+  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+
+  [params.social]
+    a-email = "mailto:sergei.nosov@gmail.com"
+    b-stack-overflow = "https://stackoverflow.com/users/1969069/sergei-nosov"
+    e-linkedin = "https://linkedin.com/in/sergei-nosov-35922080"
+    g-github = "https://github.com/snosov1"

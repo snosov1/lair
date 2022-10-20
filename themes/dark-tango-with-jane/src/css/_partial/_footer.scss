@@ -1,0 +1,10 @@
+// ==============================
+// Post footer
+// =============================
+
+.footer {
+  background: $tango-black-bg;
+
+  @import "_footer/social";
+  @import "_footer/copyright";
+}

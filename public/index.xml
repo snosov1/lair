@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Old-school old-time hacker's lair</title><link>http://snosov1.github.io/</link><description>Recent content on Old-school old-time hacker's lair</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 05 Apr 2019 13:55:01 +0300</lastBuildDate><atom:link href="http://snosov1.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>http://snosov1.github.io/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>http://snosov1.github.io/about/</guid><description>&lt;p>
+My name is Sergei Nosov. I&amp;#39;m an old-school old-time hacker from Russia. I&amp;#39;ve
+been programming and doing math/computer science for as long as I can remember.
+I have an extensive experience in native programming languages (mainly, C++); HW
+optimization for Intel CPUs and Nvidia GPUs; Computer Vision and Computer
+Science.&lt;/p>
+&lt;p>
+I&amp;#39;m a heavy &lt;a href="https://www.gnu.org/software/emacs/">Emacs&lt;/a> user with an extensible, customizable, self-documented
+&lt;a href="https://github.com/snosov1/dot-emacs">configuration file&lt;/a> that also has a &lt;a href="https://github.com/snosov1/dot-emacs/blob/master/tutorial.org">tutorial&lt;/a> for beginners (in Russian). Also,
+I&amp;#39;m the author and maintainer of a popular Emacs package &lt;a href="https://melpa.org/#/toc-org">toc-org&lt;/a> for automatic
+table of contents generation (and not so popular &lt;a href="https://melpa.org/#/dummyparens">dummyparens&lt;/a> package)&lt;/p>
+&lt;p>
+The list of public projects I&amp;#39;ve been contributing to over the years looks
+something like this:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://software.intel.com/en-us/openvino-toolkit">OpenVINO&lt;/a> &lt;a href="https://github.com/opencv/open_model_zoo">Model Zoo&lt;/a>. Our team has trained about one third of the &amp;#34;intel_models&amp;#34;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>OpenCV on Jetson &lt;a href="https://github.com/snosov1/jetson-screencasts-sources">screencasts&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>OpenCV &lt;a href="https://github.com/opencv/opencv/blob/master/modules/imgproc/src/clahe.cpp">CLAHE implementation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Intel-Media-SDK/MediaSDK/tree/master/samples">Media SDK samples&lt;/a> (in pre-open source era of Media SDK)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bitbucket.org/digitalsphere/sphericalmirror/src/master/">VLC plugin&lt;/a> for Spherical Mirror projection&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>My &lt;a href="https://www.dropbox.com/s/yq7p4de99knn1o0/pre-defense.pdf?dl=0">Master&amp;#39;s Thesis&lt;/a> (in Russian) &amp;#34;On the maximal volume of parallelotope inscribed in d-simplex&amp;#34; at Nizhniy Novgorod State University.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Since 2015, I read regular Saturday classes on competitive programming at
+Nizhniy Novgorod school 165. Also, I have an annual lecture on &lt;a href="https://github.com/UNN-VMK-Software/devtools-course-theory/tree/master/slides/09-automation">&amp;#34;Automation in
+Software Engineering&amp;#34;&lt;/a> (in Russian) at Nizhniy Novgorod State University (part of
+the &amp;#34;Software Development Tools&amp;#34; course)&lt;/p></description></item><item><title>Posts</title><link>http://snosov1.github.io/post/</link><pubDate>Fri, 05 Apr 2019 13:55:01 +0300</pubDate><guid>http://snosov1.github.io/post/</guid><description/></item></channel></rss>

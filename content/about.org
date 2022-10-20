@@ -1,0 +1,37 @@
+---
+title: "About"
+date: 2017-08-20T21:38:52+08:00
+lastmod: 2017-08-28T21:41:52+08:00
+menu: "main"
+weight: 50
+
+# you can close something for this content if you open it in config.toml.
+comment: false
+mathjax: false
+---
+
+My name is Sergei Nosov. I'm an old-school old-time hacker from Russia. I've
+been programming and doing math/computer science for as long as I can remember.
+I have an extensive experience in native programming languages (mainly, C++); HW
+optimization for Intel CPUs and Nvidia GPUs; Computer Vision and Computer
+Science.
+
+I'm a heavy [[https://www.gnu.org/software/emacs/][Emacs]] user with an extensible, customizable, self-documented
+[[https://github.com/snosov1/dot-emacs][configuration file]] that also has a [[https://github.com/snosov1/dot-emacs/blob/master/tutorial.org][tutorial]] for beginners (in Russian). Also,
+I'm the author and maintainer of a popular Emacs package [[https://melpa.org/#/toc-org][toc-org]] for automatic
+table of contents generation (and not so popular [[https://melpa.org/#/dummyparens][dummyparens]] package)
+
+The list of public projects I've been contributing to over the years looks
+something like this:
+
+- [[https://software.intel.com/en-us/openvino-toolkit][OpenVINO]] [[https://github.com/opencv/open_model_zoo][Model Zoo]]. Our team has trained about one third of the "intel_models"
+- OpenCV on Jetson [[https://github.com/snosov1/jetson-screencasts-sources][screencasts]]
+- OpenCV [[https://github.com/opencv/opencv/blob/master/modules/imgproc/src/clahe.cpp][CLAHE implementation]]
+- [[https://github.com/Intel-Media-SDK/MediaSDK/tree/master/samples][Media SDK samples]] (in pre-open source era of Media SDK)
+- [[https://bitbucket.org/digitalsphere/sphericalmirror/src/master/][VLC plugin]] for Spherical Mirror projection
+- My [[https://www.dropbox.com/s/yq7p4de99knn1o0/pre-defense.pdf?dl=0][Master's Thesis]] (in Russian) "On the maximal volume of parallelotope inscribed in d-simplex" at Nizhniy Novgorod State University.
+
+Since 2015, I read regular Saturday classes on competitive programming at
+Nizhniy Novgorod school 165. Also, I have an annual lecture on [[https://github.com/UNN-VMK-Software/devtools-course-theory/tree/master/slides/09-automation]["Automation in
+Software Engineering"]] (in Russian) at Nizhniy Novgorod State University (part of
+the "Software Development Tools" course)

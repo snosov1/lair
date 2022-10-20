@@ -1,0 +1,32 @@
+# https://docs.travis-ci.com/user/deployment/pages/
+# https://docs.travis-ci.com/user/languages/python/
+language: python
+
+python:
+    - "3.6"
+
+install:
+    # install latest release version
+    # - wget -qO- https://api.github.com/repos/gohugoio/hugo/releases/latest | sed -r -n '/browser_download_url/{/Linux-64bit.deb/{s@[^:]*:[[:space:]]*"([^"]*)".*@\1@g;p}}' | head -n1 | xargs wget
+    - wget https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.deb
+    - sudo dpkg -i hugo*.deb
+    - pip install Pygments
+    - rm -rf public 2> /dev/null
+
+script:
+    - hugo
+    # - echo 'axdlog.com' > public/CNAME
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  repo: snosov1/snosov1.github.io
+  github-token: $TRAVIS_GH_PAGES_PUSH   # Set in travis-ci.org dashboard, marked secure
+  email: sergei.nosov@gmail.com
+  name: snosov1
+  verbose: true
+  keep-history: true
+  local-dir: public
+  target_branch: master  # branch contains blog content
+  on:
+    branch: master  # branch contains Hugo generator code

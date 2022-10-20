@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Логово Старого Хакера</title><link>http://snosov1.github.io/ru/</link><description>Recent content on Логово Старого Хакера</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Mon, 14 Jan 2019 14:38:37 +0300</lastBuildDate><atom:link href="http://snosov1.github.io/ru/index.xml" rel="self" type="application/rss+xml"/><item><title>О себе</title><link>http://snosov1.github.io/ru/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>http://snosov1.github.io/ru/about/</guid><description>&lt;p>
+Меня зовут Сергей Носов. Я – бывалый программист из России. Занимаюсь
+программированием и смежными дисциплинами сколько себя помню. Большую часть
+профессионального опыта составляют нативные языки программирования (главным
+образом, С++); оптимизация под Интеловские процессоры и Нвидиевские карты;
+Компьютерное Зрение и разделы математики, которые обычно объединяют
+словосочетанием &amp;#34;Computer Science&amp;#34;.&lt;/p>
+&lt;p>
+Являюсь ярым пользователем и приверженцем редактора &lt;a href="https://www.gnu.org/software/emacs/">Emacs&lt;/a> и, как следствие,
+автором расширяемого, настраиваемого и самодокументированного &lt;a href="https://github.com/snosov1/dot-emacs">конфигурационного
+файла&lt;/a> для него, где в дополнение имеется &lt;a href="https://github.com/snosov1/dot-emacs/blob/master/tutorial.org">методичка&lt;/a> для начинающих. По случаю,
+также являюсь автором популярного пакета &lt;a href="https://melpa.org/#/toc-org">toc-org&lt;/a> для автоматической генерации
+содержания (и автором не очень популярного пакета &lt;a href="https://melpa.org/#/dummyparens">dummyparens&lt;/a>).&lt;/p>
+&lt;p>
+Список публичных проектов, в которых я, так или иначе участвовал, выглядит
+следующим образом:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://software.intel.com/en-us/openvino-toolkit">OpenVINO&lt;/a> Model Zoo. Наша команда натренировала примерно треть моделей под грифом &amp;#34;intel_models&amp;#34;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Обучающие &lt;a href="https://github.com/snosov1/jetson-screencasts-sources">скринкасты&lt;/a> по OpenCV на Jetson&amp;#39;е&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>OpenCV&amp;#39;шная &lt;a href="https://github.com/opencv/opencv/blob/master/modules/imgproc/src/clahe.cpp">реализация CLAHE&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Intel-Media-SDK/MediaSDK/tree/master/samples">Сэмплы в Media SDK&lt;/a> (участвовал в разработке ещё до того, как Media SDK вышла в Open Source)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bitbucket.org/digitalsphere/sphericalmirror/src/master/">Плагин для VLC&lt;/a>, реализующий преобразование &amp;#34;Сферическое Зеркало&amp;#34;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dropbox.com/s/yq7p4de99knn1o0/pre-defense.pdf?dl=0">Магистерская диссертация&lt;/a> из Нижегородского Университета им. Лобачевского &amp;#34;Об объёме максимального параллелепипеда, вложенного в симплекс&amp;#34;.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>С 2015 года я веду еженедельный субботний кружок по спортивному программированию
+в Лицее 165 г. Нижний Новгород. Также, веду ежегодную лекцию об &amp;#34;&lt;a href="https://github.com/UNN-VMK-Software/devtools-course-theory/tree/master/slides/09-automation">Автоматизации в
+программировании&lt;/a>&amp;#34; в рамках курса &amp;#34;Инструменты Разработки&amp;#34; в ННГУ.&lt;/p></description></item><item><title>Posts</title><link>http://snosov1.github.io/ru/post/</link><pubDate>Mon, 14 Jan 2019 14:38:37 +0300</pubDate><guid>http://snosov1.github.io/ru/post/</guid><description/></item></channel></rss>
